@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![SymbianMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&theme=transparent)
+![SymbianMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&theme=transparent)(https://github.com/SymbianMoe)
 
 
 <!---
