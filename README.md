@@ -23,6 +23,7 @@
 <br>
 <br>
 <br>
+	
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
 	<a href="mailto:shawky171999@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -36,7 +37,7 @@
 
 ## Languages & Frameworks <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" width="30px"> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ruby,lua,nodejs,mysql,mongodb,prisma,electron,express,nestjs,rails,react,nextjs,fastapi,graphql,godot,tailwind,html,css&perline=22&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,ruby,lua,nodejs,mysql,mongodb,prisma,electron,express,nestjs,rails,react,nextjs,fastapi,graphql,godot,tailwind,html,css&perline=22&theme=dark)](https://github.com/SymbianMoe)
 
 
 
