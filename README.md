@@ -11,19 +11,18 @@
 
 **About Me!**
 
-- 👨🏽‍💻 
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 👨🏽‍💻 I'm a Full Stack developer who loves Javascript.
+- 🎓 I have a bachelor's degree in computer scince from AAST.
 - 🤔 My interest lies in learning new technologies.
-- 🎮 I do game development in my free time
-- 🎓 I have a bachelor's degree in computer scince from AAST
+- 🌱 I’m currently learning React-Native It's Awoesome.
+- 🎮 I do game development in my free time.
+- ⚽ Visca Barça <3 
 - 💬 Ask me about anything, I love to answer!
 
 <br>
 <br>
 <br>
 <br>
-	
-	
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
 	<a href="mailto:shawky171999@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
