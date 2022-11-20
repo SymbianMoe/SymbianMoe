@@ -52,7 +52,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content:space-between'">
-    <a href="https://github.com/SymbianMoe"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
+    <a href="https://github.com/SymbianMoe"><img alt=Moe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
    <a href="https://github.com/SymbianMoe">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SymbianMoe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SymbianMoe" height="192px"/>
 </a>
@@ -62,7 +62,7 @@
   <b>⚡ Recent GitHub Activity</b>
   <br/>
   <br/>
-   <a href="https://github.com/SymbianMoe"><img alt="Moe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SymbianMoe&custom_title=Moe's%20Contribution%20Graph&theme=github" /></a>
+   <a href="https://github.com/SymbianMoe"><img alt="Moe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SymbianMoe&custom_title=Mohamed's%20Contribution%20Graph&theme=github" /></a>
   <br/>
 
 
