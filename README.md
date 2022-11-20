@@ -1,45 +1,46 @@
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=554CF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moe;I'm+a+Full-Stack+Web+Developer;Welcome+to+My+Github" alt="Typing SVG" /></a>
 </p>
-- 👋 Hi, I’m @SymbianMoe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-[![SymbianMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&theme=transparent)](https://github.com/SymbianMoe)
+<p>
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<details> 
+
  <b>💻 GitHub Profile Stats</b>
   <br/>
- <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
-<a>
+
+ <table>
+ <tr>
+ <td>
+ <a href="https://github.com/SymbianMoe"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
+ </td>
+ <td>
+ <a href="https://github.com/SymbianMoe">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SymbianMoe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SymbianMoe" height="192px"/>
 </a>
-  </p>
+ </td>
+ </tr>
+ </table>
+    
 
-
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <b>⚡ Recent GitHub Activity</b>
+  <br/>
   <br/>
    <a href="https://github.com/SymbianMoe"><img alt="Moe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SymbianMoe&custom_title=Moe's%20Contribution%20Graph&theme=github" /></a>
   <br/>
 
-</details>
+
 
 <br/>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SymbianMoe&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+## GitHub Trophies 🏆
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SymbianMoe&theme=transparent&no-frame=false&no-bg=false&margin-w=4"/>
+<p>
+
 
 
 
