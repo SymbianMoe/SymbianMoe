@@ -1,3 +1,4 @@
+
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
 </p>
@@ -14,22 +15,23 @@
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+ <b>💻 GitHub Profile Stats</b>
   <br/>
-  <p align="center">
+ <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SymbianMoe&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SymbianMoe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SymbianMoe" height="192px"/>
-  <br/>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SymbianMoe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SymbianMoe" height="192px"/>
+</a>
   </p>
+
+
 </details>
 
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/SymbianMoe"><img alt="Moe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SymbianMoe&custom_title=Moe's%20Contribution%20Graph&theme=transparent" /></a>
+   <a href="https://github.com/SymbianMoe"><img alt="Moe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SymbianMoe&custom_title=Moe's%20Contribution%20Graph&theme=github" /></a>
   <br/>
 
 </details>
